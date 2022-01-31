@@ -1,3 +1,5 @@
+//link : https://tlx.toki.id/problems/troc-17/A/
+
 #include <bits/stdc++.h>
 #include <math.h>
 
